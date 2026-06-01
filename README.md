@@ -1,1 +1,1 @@
-
+The Solar & Grid Hybrid Street Light by Tech Titans ensures 100% uptime by switching to grid power when solar is low. Controlled by an LDR, it uses a PIR sensor to dim to 30% brightness, ramping to 100% only upon detecting motion to maximize efficiency. It also features a panel fault monitoring system that triggers an automated alarm.
